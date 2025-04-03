@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all blockchain related repos
 - 📫 How to reach me [https://www.linkedin.com/in/rushikesh-ghuge-/]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Jack of All trades But trying to master blockchain
+- ⚡ Fun fact: I am Jack of All trades
 
 <!---
 RushikeshGhuge-19/RushikeshGhuge-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
