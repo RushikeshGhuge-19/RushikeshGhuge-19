@@ -10,7 +10,7 @@ I contribute to open-source projects, build real-world applications, and continu
 
 - 🎓 Final Year B.Tech in Computer Science  
 - 💡 Problem solver and tech enthusiast  
-- 🔭 I’m currently working on full-stack, ML & blockchain projects  
+- 🔭 I’m currently working on full-stack, AI/ML & blockchain projects  
 - 👯 I’m open to collaborating on open-source and research-oriented projects  
 - 📫 Connect with me on LinkedIn or Email (links below)
 
@@ -62,11 +62,6 @@ rushikeshghuge19@gmail.com
 
 ---
 
-## ⭐ GitHub Stats
-
-> _Check out my pinned repositories and contributions above!_
-
----
 
 > “Strive for continuous improvement, instead of perfection.”  
 > – **Kim Collins**
