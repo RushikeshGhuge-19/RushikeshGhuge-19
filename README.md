@@ -1,17 +1,73 @@
-# 💫 About Me:
-Hiii...<br>I'm Ghuge Rushikesh..<br>Final Year CS Student...
+# Hi there, I'm **Rushikesh Ghuge** 👋
 
+I am a **final-year Computer Science student** passionate about building impactful software solutions and exploring the intersections of **Web Development, Machine Learning, Blockchain, and AI**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rushikesh-ghuge-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushighuge8099@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RushikeshGhuge-19&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
+I contribute to open-source projects, build real-world applications, and continuously improve my skills in modern technologies. My GitHub showcases projects that span full-stack development, deep learning, and applied blockchain systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RushikeshGhuge-19&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Final Year B.Tech in Computer Science  
+- 💡 Problem solver and tech enthusiast  
+- 🔭 I’m currently working on full-stack, ML & blockchain projects  
+- 👯 I’m open to collaborating on open-source and research-oriented projects  
+- 📫 Connect with me on LinkedIn or Email (links below)
+
+---
+
+## 🔧 Tech Stack
+
+### Languages
+**Python · Java · C · C++ · JavaScript · Solidity · SQL**
+
+### Frameworks & Libraries
+**Django · Flask · React · Next.js · Express · Expo · Tailwind CSS**
+
+### Machine Learning / AI
+**PyTorch · TensorFlow · scikit-learn · Keras · OpenCV · NumPy · Pandas · Matplotlib · Plotly**
+
+### Tools & Platforms
+**Git · GitHub · Firebase · Vercel · Google Cloud · Web3.js**
+
+---
+
+## 📌 Featured Projects
+
+These are a few highlighted works from my GitHub:
+
+### **TradingApp**  
+A lightweight Tradetron-style no-code strategy builder with built-in backtesting, trade analytics, and live simulation.  
+*Technologies:* Python
+
+### **SAR_Colorization**  
+Deep Learning solution to enhance SAR imagery by colorizing grayscale radar images and extracting meaningful features.  
+*Technologies:* Python, Neural Networks
+
+### **Blockchain_Django**  
+Secure Blockchain-Based Voting System built with Django that ensures transparency and integrity through a custom blockchain ledger.  
+*Technologies:* Python, Django, Blockchain concepts
+
+*(More projects are available in my repositories)*
+
+---
+
+## 📫 Contact & Connect
+
+**LinkedIn:**  
+[Connect with me](https://www.linkedin.com/in/rushikesh-ghuge/)  
+
+**Email:**  
+rushikeshghuge19@gmail.com
+
+---
+
+## ⭐ GitHub Stats
+
+> _Check out my pinned repositories and contributions above!_
+
+---
+
+> “Strive for continuous improvement, instead of perfection.”  
+> – **Kim Collins**
+
