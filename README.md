@@ -55,10 +55,10 @@ Secure Blockchain-Based Voting System built with Django that ensures transparenc
 ## 📫 Contact & Connect
 
 **LinkedIn:**  
-[Connect with me](https://www.linkedin.com/in/rushikesh-ghuge/)  
+[Connect with me](https://www.linkedin.com/in/rushikesh-ghuge-/)  
 
 **Email:**  
-rushikeshghuge19@gmail.com
+rushighuge8099@gmail.com
 
 ---
 
